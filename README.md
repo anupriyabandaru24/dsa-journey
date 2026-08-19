@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # \# DSA Journey
 
 # 
@@ -23,4 +24,3 @@
 # \- Started: Aug 2026
 
 # \- Currently on: Week 1 - Python Foundations \& intro DSA patterns
-
